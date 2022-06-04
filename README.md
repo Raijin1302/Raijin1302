@@ -12,9 +12,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raijin1302&show_icons=true&locale=en" alt="raijin1302" /></p>
 <!-- Trungquandev -->
-<a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="Click to see the source" />
-</a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
