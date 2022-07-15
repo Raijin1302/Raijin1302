@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Lê Ngọc Hoàn</h1>
-<h3 align="center">A Freelance Classified Analyst & a Passionate Frontend Developer from VietNam</h3>
+<h3 align="center">A Freelance Web Classified Analyst & a Passionate Frontend Developer from VietNam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raijin1302&label=Profile%20views&color=0e75b6&style=flat" alt="raijin1302" /> </p>
 
