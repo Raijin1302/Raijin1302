@@ -9,6 +9,16 @@
 <div>
 
 
+## 🚀 About Me
+<p>
+Hi, I'm Hoan,a developer enthusiast. There are so many things that happen in the background when the user clicks/does something. That's why I am motivated to learn about it.
+<br>
+Started with PHP and CodeIgniter, right now I try to learn Golang as my main. Golang is great because of its type safety, built-in concurrency support, and arguably fast.
+<br>
+Feel free to contact me if you have any questions or want to give feedback to me.
+</p>
+
+
 <h3 align="left">🛠 Technologies and Tools 🛠</h3>
 <br>
 <!-- https://simpleicons.org/ -->
