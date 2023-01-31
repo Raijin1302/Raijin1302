@@ -45,22 +45,16 @@
 
 <ul dir="auto">
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently working on <a href="https://github.com/MSPayneII/Audiophile_e-commerce">Audiophile E-commerce</a></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently working remote on <a href="https://github.com/MSPayneII/Audiophile_e-commerce">Webroot BrightCloud</a></p>
 </li>
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning <strong>Javascript and React</strong></p>
 </li>
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji> All of my projects are available at <a href="https://michaelspayneii.com/" rel="nofollow">https://michaelspayneii.com/</a></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji> All of my projects are available at <a href="https://hanno-nguyen.vercel.app/" rel="nofollow">https://hanno-nguyen.vercel.app/</a></p>
 </li>
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about <strong>UX research, wrestling,</strong></p>
-</li>
-<li>
-<p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me <strong><a href="mailto:mpaynei@umich.edu">mpaynei@umich.edu</a></strong></p>
-</li>
-<li>
-<p dir="auto"><g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png">📄</g-emoji> Know about my experiences <a href="https://michaelspayneii.com/resume.html" rel="nofollow">https://michaelspayneii.com/resume.html</a></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me <strong><a href="mailto:raijinnguyen1302@gmail.com">raijinnguyen1302@gmail.com</a></strong></p>
 </li>
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Fun fact <strong>I love synthwave</strong></p>
@@ -72,7 +66,7 @@
 <h3 align="left">👽 Where to find me 👽</h3>
 <br>
 <!-- https://icons8.com -->
-<div align="center">
+<div align="left">
   
   <a href="https://www.linkedin.com/in/hoan-nguyen-2a5002164/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="linkedin" />
