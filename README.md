@@ -55,7 +55,7 @@ Feel free to contact me if you have any questions or want to give feedback to me
 
 <ul dir="auto">
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently working remote on <a href="https://github.com/MSPayneII/Audiophile_e-commerce">Webroot BrightCloud</a></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently working remote on <a href="https://www.brightcloud.com/">Webroot BrightCloud</a></p>
 </li>
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning <strong>Javascript and React</strong></p>
